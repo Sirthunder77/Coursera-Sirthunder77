@@ -1,0 +1,89 @@
+
+body {
+	background-color: #060512;
+	color: #fff;
+
+}
+
+
+#header-nav {
+	background-color: #a30029;
+	border: 0;
+	border-radius: 0;
+}
+
+.navbar-brand {
+	margin-top: 5px
+	padding-top: 10px;
+	padding-left: 0px;
+
+}
+
+.navbar-brand h1 {
+	line-height: 0;
+	color: #f5f2f3;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-shadow: 2px 2px 2px #222;
+	margin: 0 auto 0 10px;
+}
+h3 {
+	line-height: 0;
+	color: #f5f2f3;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-shadow: 2px 2px 2px #222;
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+	text-decoration: none;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -60px;
+}
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  color: #f5f2f3;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #1a0c0c;
+}
+
+.page-header {
+	border: 0;
+}
+.page-header h1 {
+	text-align: center;
+}
+
+@media (max-width: 767px) {
+	.navbar-collapse{
+		background-color: #f7a04f;
+	}
+}
+
+#div1 {
+	background-color: #a30029;
+	height: 750px;
+	margin-bottom: 30px;
+}
+#div2 {
+	background-color: #a30029;
+	height: 750px;
+margin-bottom: 30px;
+}
+#div3 {
+	background-color: #a30029;
+	height: 750px;
+margin-bottom: 30px;
+}
